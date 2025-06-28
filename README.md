@@ -5,7 +5,7 @@
 Olá, *Devs*!  
 Neste repositório, compartilho meus estudos sobre a linguagem de marcação **Markdown**.
 
-Ela é amplamente utilizada nas áreas de *programação, desenvolvimento de software e ciência de dados*, estando presente em ferramentas como **GitHub**, **IDEs**, e até em aplicativos como o **WhatsApp**, além de diversos outros ambientes.
+Ela é amplamente utilizada nas áreas de *programação, desenvolvimento de software e ciência de dados*, estando presente em ferramentas como **GitHub**, **IDEs**, e até em aplicativos como o **WhatsApp** e diversos outros ambientes.
 
 ## Objetivo
 
