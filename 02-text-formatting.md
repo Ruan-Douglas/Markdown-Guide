@@ -7,6 +7,7 @@ Vamos explicar cada uma abaixo:
 ## *Itálico*
 Destaca o texto com uma *inclinação da palavra selecionada*.
 
+### Sintaxe
 Você pode usar isso colocando apenas um asterisco `*` ou underline `_` antes e depois da palavra ou frase que queira destacar.
 
 ### Exemplo:
@@ -25,6 +26,7 @@ _Teste 2_
 
 Destaca o texto com uma **coloração mais escura** e **espessura maior da palavra**.
 
+### Sintaxe
 Você pode fazer isso colocando dois asteriscos `**` ou dois underlines `__` antes e depois da palavra ou frase que queira destacar.
 
 ### Exemplo:
@@ -44,6 +46,7 @@ __Teste 2__
 
 Destaca a palavra ou frase dando um ~~risco no meio da palavra~~.
 
+### Sintaxe
 Você pode fazer isso colocando dois tis `~~` antes e depois da palavra ou frase que queria destacar.
 
 ### Exemplo:
