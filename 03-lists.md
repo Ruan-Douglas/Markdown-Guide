@@ -10,7 +10,10 @@ São elas:
 A seguir, iremos demonstrar como usar cada uma delas.
 
 ## Listas Numeradas
-São utilizadas quando a ordem dos itens importa, e é usado `1.` para inciar a lista.
+São utilizadas quando a ordem dos itens importa.
+
+### Sintaxe
+Para criar uma lista numerada usamos o `1. ` no começo do primeiro item e vai assim por diante.
 
 ### Exemplos:
 ```
@@ -59,7 +62,10 @@ São utilizadas quando a ordem dos itens importa, e é usado `1.` para inciar a 
 Como podem ver, errei, onde deveria ser o *item 3* e *Item 4* eu coloquei o número 6 e o 0 respectivamente e mesmo assim o *Markdown* renderizou a sequência automaticamente, corrigindo a numeração visualmente.
 
 ## Listas Demarcadas
-Quando a ordem dos itens não importa, podemos usar `*`, `-` ou `+` antes do item para criar uma lista e incluí-lo.
+Quando a ordem dos itens não importa.
+
+### Sintaxe
+Podemos usar `*`, `-` ou `+` antes do item para criar uma lista e incluí-lo.
 
 ### Exemplos:
 ```
@@ -83,6 +89,7 @@ Como podemos ver, a **_dica 1_** das listas numeradas também vale para listas d
 ## Listas de Tarefas
 Quando precisamos marcar ou registrar que algo já foi realizado ou nos lembrar de coisas que ainda precisam ser feitas, usamos as listas de tarefas.
 
+### Sintaxe
 Para criarmos usamos `- [ ]` antes do item para incluí-lo na lista e acrescentamos um `x` entre os `[ ]` para marcá-lo como concluído.
 
 ### Exemplos:
