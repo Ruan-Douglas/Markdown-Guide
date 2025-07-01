@@ -57,7 +57,7 @@ Você pode fazer isso colocando dois tis `~~` antes e depois da palavra ou frase
 ### Resultado:
 ~~Teste 1~~
 
-**Dicas**: Você pode escolher misturar os tipos de formatação que deseja para cada palavra ou até frase, é possível usar + de 1 tipo como segue os exemplos abaixo
+>**Dica**: Você pode escolher misturar os tipos de formatação que deseja para cada palavra ou até frase, é possível usar + de 1 tipo como segue os exemplos abaixo:
 
 ### Exemplos:
 
@@ -109,6 +109,6 @@ Resultado:
 
 ~~*__Teste 2__*~~
 
-Como você pode ter notado, a ordem dos símbolos não importa, desde que sejam colocados corretamente.
+Como você pode ter notado, *a ordem dos símbolos não importa*, desde que sejam colocados *corretamente*.
 
-Há muitas outras variações que podem ser feitas e funcionarão do mesmo jeito, convido você a testar e brincar com as combinações!
+Há muitas outras variações que podem ser feitas e funcionarão do mesmo jeito, convido você a __testar__ e brincar com as combinações!
