@@ -19,7 +19,7 @@ Item A | Item B | Item C | Item D
 Item E | Item F | Item G | Item H
 Item I | Item J | Item K | Item L
 
-**Dica**: Podemos ainda aplicar alinhamentos personalizados às colunas, utilizando os dois-pontos `:` junto com os traços `---`. Usando `:---:` para um alinhamento central, `---:` para um alinhamento à direita e `:---` para um alinhamento à esquerda, veja abaixo:
+> **Dica**: Podemos ainda aplicar alinhamentos personalizados às colunas, utilizando os dois-pontos `:` junto com os traços `---`. Usando `:---:` para um alinhamento central, `---:` para um alinhamento à direita e `:---` para um alinhamento à esquerda, veja abaixo:
 
 ### Exemplo:
 ```
