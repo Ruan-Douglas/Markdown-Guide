@@ -26,7 +26,7 @@ Para criar uma lista numerada usamos o `1. ` no começo do primeiro item e vai a
 2. Item B
 3. Item C
 
-**Dica 1**: Podemos também criar *__sublistas__* apenas dando espaço 3 vezes e iniciando mais uma lista.
+> **Dica 1**: Podemos também criar *__sublistas__* apenas dando espaço 3 vezes e iniciando mais uma lista.
 #### Exemplo:
 ```
 1. Item A
@@ -44,7 +44,7 @@ Para criar uma lista numerada usamos o `1. ` no começo do primeiro item e vai a
    3. Item 3
 3. Item C
 
-**Dica 2**: Se você está fazendo uma sequência em uma lista colocando, por exemplo, 1, 2, 3 e etc, caso venha a errar o número e no lugar do desejado seja colocado outro, o Markdown entende automaticamente e renderiza como correto, mas *__não é uma boa prática colocar os números em desordem de forma proposital__*.
+> **Dica 2**: Se você está fazendo uma sequência em uma lista colocando, por exemplo, 1, 2, 3 e etc, caso venha a errar o número e no lugar do desejado seja colocado outro, o Markdown entende automaticamente e renderiza como correto, mas *__não é uma boa prática colocar os números em desordem de forma proposital__*.
 
 #### Exemplo:
 ```
@@ -111,7 +111,7 @@ Para criarmos usamos `- [ ]` antes do item para incluí-lo na lista e acrescenta
 
 Podemos observar que a **Dica 1** também serve para a lista de tarefas, apesar de não ser tão usual.
 
-Dica: podemos ainda acrescentar um `~~` antes e depois do item da lista concluída para melhor visualização.
+> **Dica**: podemos ainda acrescentar um `~~` antes e depois do item da lista concluída para melhor visualização.
 
 ### Exemplo:
 ```
