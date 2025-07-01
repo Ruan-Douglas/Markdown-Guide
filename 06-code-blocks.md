@@ -50,6 +50,6 @@ else:
     print(f'O valor {num} é ÍMPAR')
 print('Fim do Programa')
 ```
-**Dica:** Para manter a indentação correta, escreva o código como faria normalmente em um editor. O Markdown irá preservar o espaçamento.
+> **Dica:** Para manter a indentação correta, escreva o código como faria normalmente em um editor. O Markdown irá preservar o espaçamento.
 
 Como podemos ver, as duas maneiras, tanto em linha quanto em bloco, são muito úteis para representar códigos em nosso arquivo.

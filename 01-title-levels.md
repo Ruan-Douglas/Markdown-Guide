@@ -26,5 +26,5 @@ Você coloca o `#` com um espaço antes do texto, para definir o nível do seu t
 ---
 Dessa forma, você pode usar vários níveis de título ao longo do seu arquivo.
 
-**Dica:** Use apenas **um título de nível 1** (`# Título 1`) por documento.  
-Depois disso, utilize `##` ou `###` para os subtítulos, seguindo uma hierarquia lógica, evite pular diretamente de `#` para `###`, por exemplo.
+>**Dica:** Use apenas **um título de nível 1** (`# Título 1`) por documento.  
+>Depois disso, utilize `##` ou `###` para os subtítulos, seguindo uma hierarquia lógica, evite pular diretamente de `#` para `###`, por exemplo.
