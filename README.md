@@ -25,21 +25,18 @@ Abaixo, deixo os links para seu canal, perfil e conteúdos. Espero que aproveite
 
 - [Aula sobre Markdown](https://www.youtube.com/watch?v=LntSB-gl-ZI&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=10)
 
-## Conteúdo
+## Sumário
+A seguir, o link com os conteúdos sobre a linguagem *Markdown* que você encontrará nesse repositório:
 
-Neste repositório, você encontrará anotações e exemplos práticos sobre:
-
-* Níveis de Texto
-* Negrito, Itálico e Tachado
-* Listas Numeradas
-* Listas Demarcadas
-* Listas de Tarefas
-* Comandos
-* Imagens
-* Tabelas
-* Menções
-* Links
-* Emojis
+1. [Níveis de Texto](./contents/01-title-levels.md)
+2. [Formatação de Texto](./contents/02-text-formatting.md)
+3. [Listas](./contents/03-lists.md)
+4. [Tabelas](./contents/04-tables.md)
+5. [Links e Imagens](./contents/05-links-and-images.md)
+6. [Bloco de Código](./contents/06-code-blocks.md)
+7. [Escape de Símbolos](./contents/07-escaping-symbols.md)
+8. [Relações entre Conteúdos](./contents/08-mentions-and-references.md)
+9. [Emojis](./contents/09-emojis.md)
 
 Além de encontrar também uma pasta com _**Desafios**_ da linguagem *Markdown* para prática e melhor fixação do aprendizado.
 
