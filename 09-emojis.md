@@ -6,14 +6,20 @@ Para usar emojis utilizamos dois pontos `:` antes e depois do nome do emoji.
 ### Exemplo:
 ```
 Boas iniciativas merecem aplausos :clap:
+
 Fatos importantes merecem atenção :eyes:
+
 Momentos difíceis requerem força :muscle:
+
 Mensagens bem escritas merecem um like :+1: 
 ```
 ### Resultado
 Boas iniciativas merecem aplausos :clap:
+
 Fatos importantes merecem atenção :eyes:
+
 Momentos difíceis requerem força :muscle:
+
 Mensagens bem escritas merecem um like :+1: 
 
 > **Dica**: Em arquivos mais técnicos, use emojis com moderação para evitar passar uma imagem informal demais.
