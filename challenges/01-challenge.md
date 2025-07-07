@@ -23,4 +23,5 @@ Chegou a hora de treinar os conceitos passados anteriormente nesse material de e
 ## Considerações
 Este exercício aborda temas como **Níveis de título**, __Formatação de texto (negrito, itálico e tachado)__ e ainda **Listas**. Com isso conseguimos praticar conceitos interessantes com usabilidade real em *Markdown*.
 ## Respostas
-Você encontrará o arquivo com as respostas clicando no link abaixo ou indo na pasta de resoluções.
+Você encontrará o arquivo com as respostas clicando no link abaixo ou indo na pasta de resoluções:
+[Resposta - Desafio 1](../solutions/challenge-01-solutions.md)
