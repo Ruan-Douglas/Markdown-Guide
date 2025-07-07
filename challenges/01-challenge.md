@@ -1,7 +1,7 @@
 # Desafio 1
 ## Objetivo
 Chegou a hora de treinar os conceitos passados anteriormente nesse material de estudo, convido você a testar o seu conhecimento cumprindo as exigências a seguir.
-### Instruções
+## Instruções
 1. Faça um título de nível 1 chamado "Aula em Markdown".
 2. Faça um título nível 2 chamado "Formatação de Texto em Markdown"
 3. Nesta parte você irá colocar o seguinte parágrafo:
@@ -23,4 +23,4 @@ Chegou a hora de treinar os conceitos passados anteriormente nesse material de e
 ## Considerações
 Este exercício aborda temas como **Níveis de título**, __Formatação de texto (negrito, itálico e tachado)__ e ainda **Listas**. Com isso conseguimos praticar conceitos interessantes com usabilidade real em *Markdown*.
 ## Respostas
-Abaixo eu deixo o arquivo de respostas para você comparar o seu arquivo com o meu.
+Você encontrará o arquivo com as respostas clicando no link abaixo ou indo na pasta de resoluções.
