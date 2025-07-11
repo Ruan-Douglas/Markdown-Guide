@@ -36,3 +36,5 @@ Como já dizia alguém muito sábio:
 Este desafio integra quatro conceitos fundamentais do Markdown: formatação de tabelas com alinhamento, escape de caracteres especiais, citações e uso de emojis. Treinar esses elementos ajuda a criar documentos mais organizados, expressivos e funcionais.
 ## Resposta
 Você encontrará o arquivo com as respostas clicando no link abaixo ou indo na pasta de resoluções.
+
+[Resposta - Desafio 3](../solutions/challenge-03-solutions.md)
