@@ -21,7 +21,8 @@ Vamos reforçar agora os conceitos de links, imagens e código em linha, pratica
    ```
    O comando "git clone <url>" é usado para clonar repositórios.
    ```
-8. Escreva código abaixo com  a formatação de bloco de código:
+8. Crie um título nível 2 chamado Bloco de Código.
+9. Escreva código abaixo com  a formatação de bloco de código:
    ```
     idade = int(input("Digite sua idade: "))
     if idade >= 18:
@@ -35,3 +36,5 @@ Vamos reforçar agora os conceitos de links, imagens e código em linha, pratica
 Este desafio abrange o uso de links com descrição, inserção de imagens externas, código em linha e bloco de código. Práticas essenciais em documentações com Markdown.
 ## Resposta
 Você encontrará o arquivo com as respostas clicando no link abaixo ou indo na pasta de resoluções.
+
+[Resposta - Desafio 2](../solutions/challenge-02-solutions.md)
